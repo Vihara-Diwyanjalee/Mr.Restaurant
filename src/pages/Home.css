@@ -1,0 +1,19 @@
+.home-container{
+    padding: 10px;
+}
+
+.home-nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.home-nav button{
+    margin: 5px;
+}
+
+.home-inner-container{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 10px;
+}

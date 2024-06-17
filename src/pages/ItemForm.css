@@ -1,0 +1,10 @@
+.submit-button{
+    width: 100%;
+    margin-top: 10px;
+}
+
+.item-form-container img{
+    width:200px;
+    height: 200px;
+    object-fit: cover;
+}

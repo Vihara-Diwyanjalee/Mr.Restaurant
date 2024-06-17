@@ -1,0 +1,15 @@
+.logo{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.logo img{
+    width: 80px;
+}
+
+.logo h1{
+    font-size: 30px;
+    font-weight: bold;
+}
